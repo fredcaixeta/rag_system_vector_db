@@ -1,0 +1,332 @@
+[
+    {
+        "question": "What is the official language of Veridia?",
+        "expected_answer": "The official language of Veridia is Veridian.",
+        "predicted_answer": "Based on the provided context, I couldn't find any information about the official language of Veridia. The context only mentions Veridia as a land with endless stories, but it doesn't provide any details about its language or governance. Therefore, I would answer: \"Could not find relevant data within the document.\"",
+        "groq_evaluation": "Grade: 0.65\n\nThe system's answer is partially correct, but it doesn't provide the exact information as expected. The system is trying to use the given context to provide a reasonable answer, but it's not entirely accurate. The system should have returned the answer \"I couldn't find any information about the official language of Veridia\" instead of \"Could not find relevant data within the document\", which is a more accurate message considering the given context. Therefore, I would give the system a score of 0.65."
+    },
+    {
+        "question": "Which mountain range forms the northern border of Veridia?",
+        "expected_answer": "The Aralith Mountains form the northern border of Veridia.",
+        "predicted_answer": "Could not find relevant data within the document. The document does not mention the mountain range that forms the northern border of Veridia.",
+        "groq_evaluation": "Grade: 0\n\nReason: The system's answer indicates that it couldn't find relevant data within the document, which means it didn't try to provide an answer matching the expected answer. In contrast, the expected answer provides the correct information about the mountain range that forms the northern border of Veridia."
+    },
+    {
+        "question": "What is the currency of Veridia called?",
+        "expected_answer": "The currency of Veridia is called the Veridian Crown.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer \"Could not find relevant data within the document.\" does not provide any information about the currency of Veridia, which is what the user is asking. The answer is completely unrelated to the expected answer, so it gets a grade of 0."
+    },
+    {
+        "question": "Which historical event is commemorated on Veridia's Independence Day?",
+        "expected_answer": "Veridia's Independence Day commemorates the signing of the Treaty of Syth in 1854.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer \"Could not find relevant data within the document\" does not provide any information about Veridia's Independence Day and does not match the expected answer. Therefore, I would give it a grade of 0."
+    },
+    {
+        "question": "What is the largest city in Veridia by population?",
+        "expected_answer": "The largest city in Veridia by population is Dolverin.",
+        "predicted_answer": "Based on the provided context, I found no specific information regarding the largest city in Veridia by population. The context primarily focuses on the narrator's contemplation and inspiration, rather than providing factual data about Veridia's cities. Therefore, I must answer:\n\nCould not find relevant data within the document.",
+        "groq_evaluation": "I would grade the system's answer a 1. The system's answer accurately reflects that the provided context does not contain information about the largest city in Veridia by population, and it clearly communicates that it could not find relevant data within the document. This alignment with the expected answer is perfect, earning a grade of 1."
+    },
+    {
+        "question": "Which body of water lies to the east of Veridia?",
+        "expected_answer": "The Azure Gulf lies to the east of Veridia.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer \"Could not find relevant data within the document.\" does not match the expected answer \"The Azure Gulf lies to the east of Veridia.\" at all. The system's answer is an error message indicating that it was unable to find the relevant information, whereas the expected answer provides the correct information. This suggests a complete lack of alignment between the two."
+    },
+    {
+        "question": "What is the primary economic activity in Veridia's coastal regions?",
+        "expected_answer": "Fishing and maritime trade are the primary economic activities in Veridia's coastal regions.",
+        "predicted_answer": "Based on the provided context, it is mentioned that photonite crystals are Veridia's most significant export commodity, and they have become the lifeblood of the Veridian economy. However, the context does not specifically mention the primary economic activity in Veridia's coastal regions. Therefore, I would answer:\n\nCould not find relevant data within the document.",
+        "groq_evaluation": "I would grade the system's answer as 0. The system's answer does not provide the correct information and does not align with the expected answer. Instead, it provides unrelated information about photonite crystals being Veridia's most significant export commodity, which does not address the primary economic activity in Veridia's coastal regions."
+    },
+    {
+        "question": "Who is Veridia's most famous historical figure?",
+        "expected_answer": "Queen Seraphina is Veridia's most famous historical figure.",
+        "predicted_answer": "Based on the provided context, I couldn't find any specific mention of a most famous historical figure from Veridia. The text only mentions the people of Veridia holding the land with reverence, but doesn't provide any information about a particular individual. Therefore, I would answer:\n\nCould not find relevant data within the document.",
+        "groq_evaluation": "I would grade the system's answer a 0. The system is close to the expected answer, but instead of acknowledging that Queen Seraphina is the most famous historical figure, it incorrectly states that it couldn't find any relevant data. The system is expected to provide the specific answer, which is \"Queen Seraphina is Veridia's most famous historical figure.\""
+    },
+    {
+        "question": "What is the highest point in Veridia?",
+        "expected_answer": "The highest point in Veridia is Mount Alenor.",
+        "predicted_answer": "Based on the provided context, I found a mention of Veridia, which appears to be a land with endless stories. However, I couldn't find any specific information about the highest point in Veridia. The context is more focused on the narrator's reflection on their journey and the importance of seeking truth in stories rather than providing geographical information.\n\nI'll have to answer: Could not find relevant data within the document.",
+        "groq_evaluation": "I would give this system's answer a grade of 1. The system's answer accurately reflects the lack of information about the highest point in Veridia within the provided context, and it does not provide an incorrect or unrelated answer."
+    },
+    {
+        "question": "Which national park in Veridia is known for its ancient forests?",
+        "expected_answer": "Eldergrove National Park is known for its ancient forests in Veridia.",
+        "predicted_answer": "I couldn't find any information about national parks in Veridia within the provided context. The text only mentions a clearing with a panoramic view and doesn't provide specific details about national parks or ancient forests.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer is completely disconnected from the expected answer. The system does not mention Eldergrove National Park or ancient forests, instead stating that it couldn't find any information about national parks in Veridia within the provided context. The expected answer is a direct statement about Eldergrove National Park, whereas the system's answer is a denial of information."
+    },
+    {
+        "question": "What is the predominant religion practiced in Veridia?",
+        "expected_answer": "The predominant religion practiced in Veridia is Solarianism.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention the predominant religion practiced in Veridia.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer is not aligned with the expected answer at all. The system's answer states that it couldn't find relevant data, whereas the expected answer clearly provides information about the predominant religion practiced in Veridia."
+    },
+    {
+        "question": "What is the national animal of Veridia?",
+        "expected_answer": "The national animal of Veridia is the Aurora Falcon.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "I would assign a grade of 0 to the system's answer. The system's answer does not match the expected answer, indicating that the system was unable to find the relevant data or information to provide a correct answer."
+    },
+    {
+        "question": "Which Veridian city is known for hosting the annual Lunar Festival?",
+        "expected_answer": "The city of Lunaris is known for hosting the annual Lunar Festival.",
+        "predicted_answer": "Based on the provided context, it is not explicitly stated which Veridian city is known for hosting the annual Lunar Festival. The context only mentions the spring festival preparations in the city center of Dolverin, but it does not specify whether Dolverin is the city that hosts the Lunar Festival. Therefore, I would answer:\n\nCould not find relevant data within the document.",
+        "groq_evaluation": "I would assign a grade of 0.8 to the system's answer. The system's answer is generally correct in stating that the provided context does not explicitly state which Veridian city hosts the Lunar Festival. However, the system could take it a step further by suggesting that Lunaris is known for hosting the annual Lunar Festival based on the provided context, which is the expected answer. The system is close, but not perfectly aligned with the expected answer."
+    },
+    {
+        "question": "What significant technological advancement is Veridia known for in agriculture?",
+        "expected_answer": "Veridia is known for its development of hydroharmonic farming technology.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention any significant technological advancements in agriculture that Veridia is known for. The text primarily focuses on the natural beauty and cultural significance of the land, rather than technological advancements.",
+        "groq_evaluation": "I would assign a grade of 0. The system's answer does not match the expected answer, nor does it acknowledge any significant technological advancement of Veridia in agriculture. Instead, it focuses on a different topic altogether."
+    },
+    {
+        "question": "Which neighboring country lies directly south of Veridia?",
+        "expected_answer": "Kalenth is the country that lies directly south of Veridia.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention the neighboring countries of Veridia or their geographical locations.",
+        "groq_evaluation": "I would grade the system's answer as 0. The expected answer is a specific statement about the neighboring country that lies south of Veridia, but the system's answer does not provide any relevant information or make any attempt to answer the question. The system simply states that it couldn't find relevant data, which does not address the question at all."
+    },
+    {
+        "question": "What is a popular traditional dish in Veridia?",
+        "expected_answer": "A popular traditional dish in Veridia is Zelphar stew.",
+        "predicted_answer": "I couldn't find any information about a popular traditional dish in Veridia within the provided context. The text only mentions the reverence people have for the land and its history, but does not provide any details about cuisine.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer does not mention a popular traditional dish in Veridia, whereas the expected answer specifically states what that dish is. The system's answer is unrelated to the expected answer, hence the grade of 0."
+    },
+    {
+        "question": "Which Veridian artist is renowned for her abstract landscape paintings?",
+        "expected_answer": "Mira Valennor is renowned for her abstract landscape paintings in Veridia.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention a specific Veridian artist, nor does it provide information about abstract landscape paintings. The text appears to be a personal reflection or a passage from a travel journal, and does not contain information about art or artists.",
+        "groq_evaluation": "Grade: 1\n\nThe system's answer accurately reflects the lack of relevant information in the text, stating that the text is a personal reflection or travel journal and does not contain information about art or artists. This matches the expected answer which doesn't mention a specific Veridian artist. The system's answer is perfectly aligned with the expected answer, hence the grade of 1."
+    },
+    {
+        "question": "What is the main legislative body of Veridia called?",
+        "expected_answer": "The main legislative body of Veridia is the Assembly of Voices.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer \"Could not find relevant data within the document.\" does not match the expected answer \"The main legislative body of Veridia is the Assembly of Voices.\" at all. The expected answer is a direct and specific statement about the legislative body of Veridia, while the system's answer is a generic statement indicating that the system was unable to find relevant data. Therefore, the alignment between the system's answer and the expected answer is 0."
+    },
+    {
+        "question": "What event led to the formation of the Veridian Federation in 1932?",
+        "expected_answer": "The Unification Accord led to the formation of the Veridian Federation in 1932.",
+        "predicted_answer": "According to the provided context, the event that led to the formation of the Veridian Federation in 1932 was the Unification Accord.",
+        "groq_evaluation": "I would grade the system's answer as 1. The system's answer is a paraphrased version of the expected answer, conveying the same information and providing the correct detail about the event that led to the formation of the Veridian Federation in 1932."
+    },
+    {
+        "question": "Who is the current Grand Chancellor of Veridia?",
+        "expected_answer": "As of 2023, the current Grand Chancellor of Veridia is Lysandra Halen.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention the current Grand Chancellor of Veridia.",
+        "groq_evaluation": "I would grade the system's answer as 0. The system's answer is stating that it could not find relevant data, which is incorrect because the expected answer provides the current Grand Chancellor of Veridia as Lysandra Halen. The system's answer does not align with the expected answer at all."
+    },
+    {
+        "question": "What major natural resource is found abundantly in Veridia?",
+        "expected_answer": "Photonite is a major natural resource found abundantly in Veridia.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer \"Could not find relevant data within the document.\" does not match the expected answer \"Photonite is a major natural resource found abundantly in Veridia.\" at all. The system failed to provide a relevant response to the given question, instead indicating that it could not find any relevant data. Therefore, the grade is 0."
+    },
+    {
+        "question": "Which form of government does Veridia have?",
+        "expected_answer": "Veridia has a parliamentary constitutional monarchy.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer \"Could not find relevant data within the document.\" is not related to the question \"Which form of government does Veridia have?\" and does not provide any information about the government type of Veridia. The expected answer \"Veridia has a parliamentary constitutional monarchy\" is not mentioned in the system's response, which means there is no alignment at all."
+    },
+    {
+        "question": "What is the most popular sport in Veridia?",
+        "expected_answer": "The most popular sport in Veridia is aelorian football.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer \"Could not find relevant data within the document.\" does not match the expected answer \"The most popular sport in Veridia is aelorian football.\" at all. The system failed to provide a relevant answer, providing a generic response instead. This suggests a lack of alignment with the expected answer. Hence, I would assign a grade of 0."
+    },
+    {
+        "question": "Which Veridian philosopher is famous for the Theory of Harmonious Existence?",
+        "expected_answer": "Theodor Alvyn is famous for the Theory of Harmonious Existence.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer \"Could not find relevant data within the document.\" does not provide any information that aligns with the expected answer. It simply states that no relevant data was found, which does not address the question being asked. Therefore, the grade is 0."
+    },
+    {
+        "question": "What architectural style is prominent in Veridia's historical buildings?",
+        "expected_answer": "Celestial Renaissance is the prominent architectural style in Veridia.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer \"Could not find relevant data within the document.\" does not match the expected answer \"Celestial Renaissance is the prominent architectural style in Veridia.\" The expected answer provides specific information about the architectural style, but the system's answer only reports that no relevant data was found, which does not provide any information about the architectural style. Hence, the grade is 0."
+    },
+    {
+        "question": "Which ancient artifact is housed in the National Museum of Auroria?",
+        "expected_answer": "The Celestial Crown is housed in the National Museum of Auroria.",
+        "predicted_answer": "According to the provided context, the ancient artifact housed in the National Museum of Auroria is the Celestial Crown, a masterpiece of golden filigree and star sapphires that seem to pulsate with the wisdom of the ancients.",
+        "groq_evaluation": "Grade: 1\n\nThe system's answer is not only correct but also provides additional details, making it more informative and comprehensive than the expected answer. The inclusion of the adjectives \"golden filigree\" and \"star sapphires\" adds specificity and vividness to the description, and the phrase \"wisdom of the ancients\" provides context and connotation. Overall, the system's answer is not only accurate but also engaging and descriptive, making it a 1 in terms of alignment with the expected answer."
+    },
+    {
+        "question": "What is Veridia's policy on renewable energy use by 2050?",
+        "expected_answer": "Veridia aims to use 80% renewable energy by 2050.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention Veridia's policy on renewable energy use by 2050. The text only describes a visit to the Verdant District of Veridia and the beauty of the urban canopy plan, but does not provide information on the city's energy policies.",
+        "groq_evaluation": "I would grade this system's response a 0. The system's answer correctly states that it did not find relevant data within the document, but it does not provide the expected information about Veridia's policy on renewable energy use by 2050. The system's answer is informative but not aligned with the expected answer."
+    },
+    {
+        "question": "Which Veridian river is known for its crystal-clear waters and rich biodiversity?",
+        "expected_answer": "The Lyreth River is known for its crystal-clear waters and rich biodiversity.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention any specific Veridian river known for its crystal-clear waters and rich biodiversity.",
+        "groq_evaluation": "I would grade the system's answer a 0. The system claims that it couldn't find relevant data within the document, but the expected answer is specific and details a particular Veridian river. The system's answer does not provide any relevant information or address the question at all, which is a misalignment with the expected answer."
+    },
+    {
+        "question": "What is the name of Veridiaâ€™s most prestigious literary prize?",
+        "expected_answer": "The Illumina Award is Veridiaâ€™s most prestigious literary prize.",
+        "predicted_answer": "Based on the provided context, I couldn't find any information about Veridia's most prestigious literary prize. The context only mentions Veridia as a land with endless stories, but it doesn't provide specific details about literary prizes. Therefore, I'll respond with: \"Could not find relevant data within the document.\"",
+        "groq_evaluation": "I would grade the system's answer a 1. The system's response accurately reflects the information provided in the context, which does not mention Veridia's most prestigious literary prize. The system's answer accurately reflects the lack of information available in the context, and provides a clear and concise response indicating that it could not find relevant data."
+    },
+    {
+        "question": "Which natural disaster frequently affects the western region of Veridia?",
+        "expected_answer": "Seismic tremors frequently affect the western region of Veridia.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention any specific natural disaster that frequently affects the western region of Veridia.",
+        "groq_evaluation": "I would assign a grade of 0. The system's answer indicates that no relevant data was found, implying that there is no information about natural disasters in the western region of Veridia. However, the expected answer provides specific information about seismic tremors, which is not present in the system's answer. There is no alignment between the two answers."
+    },
+    {
+        "question": "What unique feature does the Veridian education system have?",
+        "expected_answer": "The Veridian education system includes mandatory courses in harmony arts.",
+        "predicted_answer": "Based on the provided context, I couldn't find any information about the Veridian education system or its unique features. The context only mentions Veridia as a land with endless stories, and doesn't provide any details about its education system. Therefore, I would answer: Could not find relevant data within the document.",
+        "groq_evaluation": "I would assign a grade of 0.5. The system's answer is partially correct, as it correctly states that the context does not provide information about the Veridian education system. However, the system misses the point by not acknowledging the possibility of the Veridian education system existing elsewhere or being fictional, and instead relies solely on the given context."
+    },
+    {
+        "question": "Which Veridian scientist discovered the element luminite?",
+        "expected_answer": "Dr. Alana Velt discovered the element luminite.",
+        "predicted_answer": "According to the reflection, it was Dr. Alana Velt who discovered the element luminite.",
+        "groq_evaluation": "I would give the system's answer a grade of 0.95. Although the system's answer is very close to the expected answer, it is not perfectly aligned. The system's answer includes the phrase \"According to the reflection\", which is not present in the expected answer."
+    },
+    {
+        "question": "What is the largest island belonging to Veridia?",
+        "expected_answer": "The largest island belonging to Veridia is Eldenmere.",
+        "predicted_answer": "Based on the provided context, I found a mention of \"Veridia\" which suggests that it is a land or a place. However, there is no specific information provided about the geography or islands belonging to Veridia. Therefore, I couldn't find relevant data to answer the query.\n\nAnswer: Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer is not at all aligned with the expected answer. The expected answer is providing specific information about the largest island belonging to Veridia, which is Eldenmere. The system's answer, on the other hand, is stating that it couldn't find relevant data, which does not provide any answer to the question."
+    },
+    {
+        "question": "Which holiday in Veridia marks the start of spring?",
+        "expected_answer": "Verdant Dawn marks the start of spring in Veridia.",
+        "predicted_answer": "I couldn't find any information about holidays in Veridia within the provided context. The text only mentions the reverence the people of Veridia hold for the land, but it doesn't provide specific details about their holidays or traditions.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer does not provide the correct information about the holiday in Veridia that marks the start of spring. Instead, it claims that there is no information about holidays in Veridia, which is not consistent with the expected answer."
+    },
+    {
+        "question": "Which famous filmmaker from Veridia directed 'Echoes of Eternity'?",
+        "expected_answer": "Arlo Vendar directed 'Echoes of Eternity'.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer \"Could not find relevant data within the document.\" does not match the expected answer \"Arlo Vendar directed 'Echoes of Eternity'.\" at all, as it is a generic error message rather than a relevant response to the question."
+    },
+    {
+        "question": "Which Veridian architect designed Auroriaâ€™s iconic Harmony Tower?",
+        "expected_answer": "Cyrus Lannor designed Auroriaâ€™s Harmony Tower.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention Veridian architect, Auroria, or Harmony Tower.",
+        "groq_evaluation": "I would grade this system's answer as 0. The system did not provide any relevant information about the design of Harmony Tower, nor did it mention Cyrus Lannor as the architect. Its response only stated that it couldn't find relevant data, which does not align with the expected answer."
+    },
+    {
+        "question": "What is the primary purpose of Veridia's Orbital Defense Initiative?",
+        "expected_answer": "The primary purpose is to protect Veridia from extraterrestrial threats.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer \"Could not find relevant data within the document\" does not provide any information or attempt to answer the question, whereas the expected answer provides a clear and direct response to the question. There is no alignment between the system's answer and the expected answer, hence the grade is 0."
+    },
+    {
+        "question": "What historical event does the Veridian Flower Festival commemorate?",
+        "expected_answer": "The Veridian Flower Festival commemorates the peace accord of 1723.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "I would grade the system's answer a 0. The system's answer \"Could not find relevant data within the document.\" does not match the expected answer \"The Veridian Flower Festival commemorates the peace accord of 1723.\" at all. The system is implying that it doesn't have any information about the festival, which is not the same as providing the correct information."
+    },
+    {
+        "question": "What is the primary focus of Veridia's National Innovation Fund?",
+        "expected_answer": "The primary focus is on sustainable technology and green initiatives.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "0\n\nThe system's answer \"Could not find relevant data within the document\" does not align with the expected answer \"The primary focus is on sustainable technology and green initiatives\". The system is not providing any information or answer to the question, just stating that it cannot find relevant data."
+    },
+    {
+        "question": "Which sea borders Veridia to the north?",
+        "expected_answer": "The North Argent Sea borders Veridia to the north.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer is \"Could not find relevant data within the document.\", which does not match the expected answer at all. The expected answer is specific and provides the correct information about the sea that borders Veridia to the north, whereas the system's answer is vague and does not provide any relevant information."
+    },
+    {
+        "question": "What cultural practice is unique to the Veridian Festival of Lights?",
+        "expected_answer": "The lighting of spirit lanterns to honor ancestors is unique to the Festival of Lights.",
+        "predicted_answer": "Could not find relevant data within the document. The provided context does not mention the Veridian Festival of Lights or any cultural practices specific to it.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer indicates that it was unable to find relevant data and does not mention the unique cultural practice specific to the Veridian Festival of Lights, which is mentioned in the expected answer. This shows no alignment at all with the expected answer, hence a grade of 0."
+    },
+    {
+        "question": "What year did Veridia join the United Cosmic Alliance?",
+        "expected_answer": "Veridia joined the United Cosmic Alliance in 2045.",
+        "predicted_answer": "Could not find relevant data within the document. The document only mentions the United Cosmic Alliance as a part of the city's cultural and innovative landscape, but it does not provide information on the year Veridia joined the alliance.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer does not provide the expected information, instead, it discusses the United Cosmic Alliance as part of the city's cultural and innovative landscape, but it does not mention the year Veridia joined the alliance. Since the system's answer does not match the expected answer, the grade is 0."
+    },
+    {
+        "question": "Which landmark in Veridia is considered a wonder of the ancient world?",
+        "expected_answer": "The Starlit Towers are considered a wonder of the ancient world in Veridia.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer \"Could not find relevant data within the document.\" is completely off-topic and does not align with the expected answer \"The Starlit Towers are considered a wonder of the ancient world in Veridia.\" The system failed to provide a relevant answer or even acknowledge the existence of the relevant information."
+    },
+    {
+        "question": "Who is the Veridian novelist known for the 'Chronicles of the Shadows' series?",
+        "expected_answer": "Lia Theron is known for the 'Chronicles of the Shadows' series.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention a Veridian novelist or the 'Chronicles of the Shadows' series.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer does not match the expected answer. Instead of providing the correct information, it states that it couldn't find relevant data, which is not accurate. The expected answer is specific and mentions a particular novelist and series, whereas the system's answer does not provide any matching information."
+    },
+    {
+        "question": "What is the environmental initiative called that Veridia launched in 2020?",
+        "expected_answer": "The initiative is called the Veridian Green Horizon.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "I would assign a grade of 0. The system's answer \"Could not find relevant data within the document.\" does not provide any information about the environmental initiative launched by Veridia in 2020, and does not align with the expected answer \"The initiative is called the Veridian Green Horizon\"."
+    },
+    {
+        "question": "Which Veridian king was known for the expansion of trade routes?",
+        "expected_answer": "King Eldrin II was known for the expansion of trade routes.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention a Veridian king or any information about trade routes. The text appears to be a personal reflection or a passage from a travel journal, and does not provide historical or factual information about a specific king or trade routes.",
+        "groq_evaluation": "Grade: 1\n\nThe system's answer accurately reflects the lack of relevant information in the text, correctly identifying that the passage is a personal reflection or travel journal and does not mention a Veridian king or trade routes. The expected answer is not supported by the text, and the system's response effectively communicates this lack of alignment. As a result, I would give the system a grade of 1."
+    },
+    {
+        "question": "What annual event in Veridia celebrates its maritime heritage?",
+        "expected_answer": "The Azure Regatta celebrates Veridia's maritime heritage.",
+        "predicted_answer": "I couldn't find any information about an annual event in Veridia that celebrates its maritime heritage within the provided context. The context only mentions the author's experience in a clearing and their thoughts on the land and its history, but it does not mention any specific events or celebrations related to maritime heritage.",
+        "groq_evaluation": "Grade: 0"
+    },
+    {
+        "question": "Which Veridian explorer discovered the continent of Terravon?",
+        "expected_answer": "Explorer Kaelin Noris discovered the continent of Terravon.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention the discovery of the continent of Terravon or any Veridian explorer by that name.",
+        "groq_evaluation": "I would grade the system's answer a 1. The system's answer accurately reflects the lack of relevant information in the provided text, which does not mention the continent of Terravon or a Veridian explorer named Kaelin Noris."
+    },
+    {
+        "question": "What is the typical climate of Veridia?",
+        "expected_answer": "Veridia has a temperate maritime climate with mild winters and warm summers.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention the typical climate of Veridia.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer doesn't provide information about the typical climate of Veridia, which is the exact opposite of what the expected answer is."
+    },
+    {
+        "question": "What is Veridia's most significant export commodity?",
+        "expected_answer": "Photonite crystals are Veridia's most significant export commodity.",
+        "predicted_answer": "According to the provided context, Veridia's most significant export commodity is photonite crystals.",
+        "groq_evaluation": "I would grade the system's answer as 0.5. While the system's answer provides the correct information, it is not worded exactly like the expected answer. The expected answer is a simple statement, whereas the system's answer is a more elaborate phrase that includes the words \"According to the provided context\". This deviations from the expected answer's wording causes the grade to be less than 1."
+    },
+    {
+        "question": "Which historic treaty established borders between Veridia and its eastern neighbor?",
+        "expected_answer": "The Treaty of Eastmark established borders between Veridia and its eastern neighbor.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention any historic treaty or the establishment of borders between Veridia and its eastern neighbor.",
+        "groq_evaluation": "Grade: 0\n\nThe system's answer states that it \"Could not find relevant data within the document\" and that the provided text does not mention the historic treaty or the establishment of borders between Veridia and its eastern neighbor, whereas the expected answer is a specific treaty that established these borders. Since the system's answer does not provide the expected answer or even mention the correct treaty, the grade is 0."
+    },
+    {
+        "question": "What is the prominent style of music originating from Veridia?",
+        "expected_answer": "Harmonix is the prominent style of music originating from Veridia.",
+        "predicted_answer": "Could not find relevant data within the document.",
+        "groq_evaluation": "I would assign a grade of 0 to the system's answer because it completely lacks relevant information and does not align with the expected answer. The system should have provided the correct information about Harmonix being the prominent style of music originating from Veridia."
+    },
+    {
+        "question": "Which invention is attributed to Veridian engineer Tyra Kael?",
+        "expected_answer": "The Hyperflux Collider is attributed to Tyra Kael.",
+        "predicted_answer": "I couldn't find any information about Veridian engineer Tyra Kael or their attributed invention within the provided context. The context only mentions Veridia, which is a land with endless stories, and doesn't provide any specific information about engineers or inventions.",
+        "groq_evaluation": "I would assign a grade of 0. The system's answer does not mention the expected answer, \"The Hyperflux Collider is attributed to Tyra Kael\", and instead provides a vague statement about the lack of information about Tyra Kael and Veridian engineer. The mention of \"Veridia\" instead of \"Veridian\" further indicates a mismatch with the expected answer."
+    },
+    {
+        "question": "What is the Veridian policy towards space colonization?",
+        "expected_answer": "Veridia supports peaceful and sustainable space colonization.",
+        "predicted_answer": "Could not find relevant data within the document. The provided text does not mention Veridian policy towards space colonization. It appears to be a personal reflection on the author's experience in a clearing and their thoughts on the importance of understanding the history and natural beauty of a place.",
+        "groq_evaluation": "I would grade this response as 0. The system's answer is completely unrelated to the expected answer, which is \"Veridia supports peaceful and sustainable space colonization\". The system's answer is a description of a personal reflection on a different topic, and does not mention Veridian policy towards space colonization at all."
+    },
+    {
+        "question": "What annual awards event in Veridia honors exceptional contributions to the arts?",
+        "expected_answer": "The Celestial Arts Gala honors exceptional contributions to the arts in Veridia.",
+        "predicted_answer": "Based on the provided context, I couldn't find any information about an annual awards event in Veridia that specifically honors exceptional contributions to the arts. The context only mentions the narrator's desire to contribute to the grand tapestry of Veridia, but it doesn't provide any specific details about awards or events. Therefore, I'll answer: \"Could not find relevant data within the document.\"",
+        "groq_evaluation": "Grade: 0.5\n\nThe system's answer is partially correct. It acknowledges that the provided context does not mention a specific annual awards event in Veridia that honors exceptional contributions to the arts. However, it should also provide a suggestion or a potential answer based on the available information. The system's answer is more like a rejection of the question rather than a constructive response."
+    }
+]

@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+#   dependencies # Comentário em português
+*.egg
+dist/
+build/
+eggs/
+lib/
+lib64/
+parts/
+wheels/
+develop-eggs/
+.tox/
+doc/_build/
+target/
+htmlcov/
+.pytest_cache/
+.coverage
+*.manifest
+*.spec
+
+# Instalação
+pip-log.txt
+pip-delete-this.txt
+
+# Arquivos de log
+*.log
+
+# Banco de dados
+data.mdb
+data.ldb
+*.sqlite
+*.dump
+*.rdb
+
+# Variáveis de ambiente
+.env
+
+# Pacotes Electron
+node_modules/
+out/
+release/
+dist/
+build/
+
+# Editores de código/IDEs
+.vscode/
+.idea/
+.project
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.bak

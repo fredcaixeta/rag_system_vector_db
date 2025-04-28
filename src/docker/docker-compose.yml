@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  milvus:
+    image: milvusdb/milvus:v2.3.3
+    container_name: milvus-standalone
+    ports:
+      - "19530:19530"  # gRPC
+      - "9091:9091"    # REST
+    environment:
+      ETCD_ENABLED: "true"
+      MINIO_ENABLED: "true"
+      COMMON_WAL_ENABLED: "true"
+    deploy:
+      resources:
+        limits:
+          memory: 6G
+    volumes:
+      - ./milvus_data:/var/lib/milvus  # Persistência de dados
+    restart: unless-stopped
