@@ -44,7 +44,7 @@ Main endpoint for querying the Dr. Voss diary documents
    
    - **Model Selection:**
      - Choice of embedding model - opensource provider - low CPU necessity
-     - Choice of LLM - using groq as proxy and its RESTAPI was necessary due to the 1000+ characters added to the context of the LLM
+     - Choice of LLM - using groq as proxy and its RESTAPI was necessary due to the 1000+ characters added to the context of the LLM. Important to create fast dozens of tests and fast evaluations - not relying on local performance.
    - **Data Processing:**
      - Document parsing - with PdfReader python library
      - Chunking strategy - separating into chunks the days of the diary
